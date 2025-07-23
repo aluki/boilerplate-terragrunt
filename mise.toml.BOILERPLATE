@@ -1,0 +1,7 @@
+[settings]
+lockfile = true
+
+[tools]
+opentofu = "latest"
+task = "latest"
+terragrunt = "latest"
